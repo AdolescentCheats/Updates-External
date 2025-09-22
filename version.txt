@@ -1,2 +1,2 @@
-1.0.0.7
-https://adolescentcheats.github.io/Updates-External/version.txt
+1.0.0.8
+https://adolescentcheats.github.io/Updates-External/setup.zip
